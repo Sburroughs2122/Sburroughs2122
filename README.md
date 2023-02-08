@@ -2,5 +2,5 @@
 
 ### Information Technology Projects:
 - <b>osTicket (Help Desk Ticketing System)</b>
-  -[osTicket: Prerequisite and Installation] (https://github.com/Sburroughs2122/osTicket-prerequisites)
+  -[osTicket: Prerequisite and Installation](https://github.com/Sburroughs2122/osTicket-prerequisites)
 
