@@ -2,5 +2,5 @@
 
 ### Information Technology Projects:
 - <b>osTicket (Help Desk Ticketing System)</b>
-osTicket-prerequisites
+  -[osTicket: Prerequisite and Installation]
 
